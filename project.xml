@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <filePath>./TestApp.exe</filePath>
+       <md5></md5>
+        <description>Update: 10/06/2018:
+        1. Updated a label.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
